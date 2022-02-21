@@ -1,0 +1,23 @@
+
+h6{
+	text-color:blue;
+	background-color:gray;
+}
+img{
+	float:left;
+	height:80px;
+	width:100px;
+}
+table{
+	background-color:white;
+}
+body{
+	text-color:black;
+	background-color:gray;
+}
+
+
+h2{
+	text-decoration:underline;
+    text-color:blue;
+}
